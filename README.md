@@ -1,2 +1,2 @@
-# hello-world
+# Hello-world
 Amazing GitHub world
